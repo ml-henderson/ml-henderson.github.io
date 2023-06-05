@@ -1,19 +1,9 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Hello!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I studied biomedical engineering in my undergrad because it felt like the most direct way to use my skills to improve people's lives. I worked for two years in the medical device industry on life-sustaining pacemakers, yet I found that it felt almost pointless in the face of the biggest threat to humanity and the world today: climate change. I am finishing my master's at the University of Exeter (Exeter, UK) in Global Sustainability Solutions this summer. As I entered a totally new academic field, friends and family were asking what exactly I learning every day. I decided to write these posts as a way to share what I was learning on a topic that is often underrepresented, misrepresented, and politicized in mainstream media.
 
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+I am a recipient of a US-UK Fulbright Grant to undertake this degree, and thus I will say: The views I express on this blog are entirely my own and not representative of the Fulbright Program, US Government, or any of their partners. 

@@ -4,7 +4,7 @@ title: "Policy Proposal: Reducing Livestock Production and Consumption in the UK
 author: "Madeleine Henderson"
 categories: journal
 tags: [policy, plant-based, agriculture]
-# image: cutting.jpg
+image: sheep_pexels.jpg
 ---
 
 A reduction in livestock production and consumption is critical for the sustainability transition in the UK, but there are no explicit policies towards this goal.Current policies provide some support towards a diet and farming shift but do not have specific measures to capitalize on current trends of reducing animal product consumption. Three recommended policies will utilize leverage points to create a positive tipping point away from animal consumption and production:

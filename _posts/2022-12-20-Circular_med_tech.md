@@ -12,7 +12,7 @@ Healthcare and medical technology have a large environmental impact in both carb
 
 <embed src="https://ml-henderson.github.io/assets/files/Sustainable_Manufacturing_Case_Study.pdf"
     type="application/pdf" 
-    width="500"
+    width="600"
     height="600"/>
 
 [CircularMedTech.pdf](../assets/files/Sustainable_Manufacturing_Case_Study.pdf)

@@ -11,7 +11,7 @@ Why is inequality related to environmental destruction, and how does considering
 
 <embed src="https://ml-henderson.github.io/assets/files/Theory_Essay_Inequality.pdf"
     type="application/pdf" 
-    width="500"
+    width="600"
     height="600"/>
 
 [Inequality.pdf](../assets/files/Theory_Essay_Inequality.pdf)

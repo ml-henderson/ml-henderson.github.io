@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Methane and Land Based Mitigations in Climate"
+author: "Madeleine Henderson"
+categories: journal
+tags: [agriculture, climate]
+# image: cutting.jpg
+---
+
+Two extended abstracts on two important climate topics, methane and land based mitigations.
+
+Key definitions for the following:
+Albedo = the reflectivity of a surface (white reflects more  higher albedo)
+Troposphere = the layer of atmosphere closest to earth
+Stratosphere = the layer of atmosphere above the troposphere, where the good ozone lives
+Aerosols = air pollution
+Biomass = biogenic stuff, usually plant matter
+
+
+<embed src="https://ml-henderson.github.io/assets/files/Climate_Change_Abstracts.pdf"
+    type="application/pdf" 
+    width="600"
+    height="600"/>
+
+[Abstracts.pdf](../assets/files/Climate_Change_Abstracts.pdf)
+

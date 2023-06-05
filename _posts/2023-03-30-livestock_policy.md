@@ -24,15 +24,13 @@ That doesn’t excuse it. Food miles are one of the smallest contributions to th
  _Image from [Our World In Data](https://ourworldindata.org/food-choice-vs-eating-local)_
 
 ## 4. But what about the protein?!?!?!
-People in the US and Europe are on average consuming way more than the recommended/necessary amount of protein every day (well over 60 g/day (paper here) vs recommended ~50g/day), including vegetarians and vegans. You can more than satisfy protein requirements from plant sources. 
-(image)
+People in the US and Europe are on average consuming way more than the recommended/necessary amount of protein every day (well over 60 g/day vs recommended ~50g/day), including vegetarians and vegans [(Mariotti and Gardner 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893534/). You can more than satisfy protein requirements from plant sources. 
 
 ## 5. But I LOVE how meat tastes!!!
 Please go try an Impossible Sausage and an oat latte. Also, reducing your meat doesn’t mean you can never have a steak again! Even reducing your meat/dairy by 1/3 or 1/2 has a huge impact.
 
 ## 6. But what about feeding cows seaweed to reduce their methane emissions or other technical fixes?
 That’s pretty much equivalent to us relying on carbon capture and storage instead of stopping our use of fossil fuels.
-
 
 # Policy Proposal for the UK
 A reduction in livestock production and consumption is critical for the sustainability transition in the UK, but there are no explicit policies towards this goal.Current policies provide some support towards a diet and farming shift but do not have specific measures to capitalize on current trends of reducing animal product consumption. Three recommended policies will utilize leverage points to create a positive tipping point away from animal consumption and production:
@@ -45,5 +43,5 @@ A reduction in livestock production and consumption is critical for the sustaina
     width="600"
     height="600"/>
 
-[PolicyBrief.pdf](../assets/files/Livestock_policy_proposal.pdf)
+<!-- [PolicyBrief.pdf](../assets/files/Livestock_policy_proposal.pdf) -->
 

@@ -14,12 +14,13 @@ Turning land that can’t grow crops into calories for people via animals eating
 _Image from [Our World In Data](https://ourworldindata.org/environmental-impacts-of-food?insight=half-of-habitable-land-is-used-for-agriculture#key-insights-on-the-environmental-impacts-of-food)_
 
 ## 2. Health concerns
-Besides eating red meat being literally carcinogenic, raising livestock has huge impacts on our health. Livestock are given preventative antibiotics, contributing to antibiotic resistance which is one day going to severely bite us in the a**. Livestock farming creates a bunch of airborn particles which exacerbate respiratory disease. It also damages the environment way more than crop farming, which then has an impact on human health through climate change and water pollution. If you haven’t seen these graphs on impact before, take a look (you can also go to the website and play around with them): 
+Besides eating red meat being literally carcinogenic, raising livestock has huge impacts on our health. Livestock are given preventative antibiotics, contributing to antibiotic resistance which is one day going to severely bite us in the a**. Livestock farming creates a bunch of airborn particles which exacerbate respiratory disease. It also damages the environment way more than crop farming, which then has an impact on human health through climate change and water pollution. If you haven’t seen these graphs on impact before, take a look: 
 
 <iframe src="https://ourworldindata.org/explorers/food-footprints?facet=none&hideControls=true&Commodity+or+Specific+Food+Product=Commodity&Environmental+Impact=Carbon+footprint&Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&By+stage+of+supply+chain=false&country=Bananas~Beef+%28beef+herd%29~Beef+%28dairy+herd%29~Cheese~Eggs~Lamb+%26+Mutton~Milk~Maize~Nuts~Pig+Meat~Peas~Potatoes~Poultry+Meat~Rice~Tomatoes~Wheat+%26+Rye~Tofu+%28soybeans%29~Prawns+%28farmed%29" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## 3. But my beef is local! 
 That doesn’t excuse it. Food miles are one of the smallest contributions to the emissions from eating meat. What you eat is a much bigger factor. 
+
 ![Environmental impact of food by lifecycle stage](../assets/img/Environmental-impact-of-food-by-life-cycle-stage.png)
  _Image from [Our World In Data](https://ourworldindata.org/food-choice-vs-eating-local)_
 
@@ -33,7 +34,7 @@ Please go try an Impossible Sausage and an oat latte. Also, reducing your meat d
 That’s pretty much equivalent to us relying on carbon capture and storage instead of stopping our use of fossil fuels.
 
 # Policy Proposal for the UK
-A reduction in livestock production and consumption is critical for the sustainability transition in the UK, but there are no explicit policies towards this goal.Current policies provide some support towards a diet and farming shift but do not have specific measures to capitalize on current trends of reducing animal product consumption. Three recommended policies will utilize leverage points to create a positive tipping point away from animal consumption and production:
+A reduction in livestock production and consumption is critical for the sustainability transition in the UK, but there are no explicit policies towards this goal. Current policies provide some support towards a diet and farming shift but do not have specific measures to capitalize on current trends of reducing animal product consumption. Three recommended policies will utilize leverage points to create a positive tipping point away from animal consumption and production:
 * Public procurement of plant-based foods to increase demand and shift social norms.
 * New agricultural subsidies for conversion away from livestock farming to build on current nature restoration schemes.
 * A gradually increasing animal product consumption tax to create cost-parity with plant-based alternatives and unsustainable animal products. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 8: Diet and Climate and a Policy Proposal"
+title: "Term 2 Week 8: Diet and Climate and a Policy Proposal"
 author: "Madeleine Henderson"
 categories: journal
 tags: [policy, plant-based, agriculture]

@@ -9,7 +9,7 @@ I studied biomedical engineering in my undergrad because it felt like the most d
 <embed src="https://ml-henderson.github.io/assets/files/HendersonResumeJune23.pdf"
     type="application/pdf" 
     width="600"
-    height="600"/>
+    height="800"/>
 
 <!-- [PolicyBrief.pdf](../assets/files/Livestock_policy_proposal.pdf) -->
 

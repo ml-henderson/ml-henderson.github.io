@@ -10,7 +10,7 @@ tags: [agriculture, climate]
 Two extended abstracts on two important climate topics, methane and land based mitigations.
 
 Key definitions for the following:
-* Albedo = the reflectivity of a surface (white reflects more  higher albedo)
+* Albedo = the reflectivity of a surface (white reflects more --> higher albedo)
 * Troposphere = the layer of atmosphere closest to earth
 * Stratosphere = the layer of atmosphere above the troposphere, where the good ozone lives
 * Aerosols = particles of air pollution (soot, ash, sulfur dioxide, etc.)
@@ -22,5 +22,5 @@ Key definitions for the following:
     width="600"
     height="600"/>
 
-[Abstracts.pdf](../assets/files/Climate_Change_Abstracts.pdf)
+<!-- [Abstracts.pdf](../assets/files/Climate_Change_Abstracts.pdf) -->
 

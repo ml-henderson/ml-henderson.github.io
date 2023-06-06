@@ -15,4 +15,4 @@ Healthcare and medical technology have a large environmental impact in both carb
     width="600"
     height="600"/>
 
-[CircularMedTech.pdf](../assets/files/Sustainable_Manufacturing_Case_Study.pdf)
+<!-- [CircularMedTech.pdf](../assets/files/Sustainable_Manufacturing_Case_Study.pdf) -->

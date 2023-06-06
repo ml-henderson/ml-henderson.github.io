@@ -31,7 +31,7 @@ People in the US and Europe are on average consuming way more than the recommend
 Please go try an Impossible Sausage and an oat latte. Also, reducing your meat doesn’t mean you can never have a steak again! Even reducing your meat/dairy by 1/3 or 1/2 has a huge impact.
 
 ## 6. But what about feeding cows seaweed to reduce their methane emissions or other technical fixes?
-That’s pretty much equivalent to us relying on carbon capture and storage instead of stopping our use of fossil fuels.
+That’s pretty much equivalent to us relying on carbon capture and storage (see [this post](https://ml-henderson.github.io/term1_week4)) instead of stopping our use of fossil fuels.
 
 # Policy Proposal for the UK
 A reduction in livestock production and consumption is critical for the sustainability transition in the UK, but there are no explicit policies towards this goal. Current policies provide some support towards a diet and farming shift but do not have specific measures to capitalize on current trends of reducing animal product consumption. Three recommended policies will utilize leverage points to create a positive tipping point away from animal consumption and production:

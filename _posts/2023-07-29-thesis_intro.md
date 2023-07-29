@@ -17,6 +17,6 @@ Thanks to the carbon credit verification by TIST members, we know exactly where 
 
 Below is an interactive map with a few examples of the type of data I'm working with. More posts to follow with results!
 
-<iframe src="assets\files\TEST_map.html" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="assets\files\introductory_map.html" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 _A rudimentary map I've made with Python and Folium. NDVI from Google Earth Engine._
 

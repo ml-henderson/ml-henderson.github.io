@@ -4,7 +4,7 @@ title: "Methane and Land Based Mitigations in Climate"
 author: "Madeleine Henderson"
 categories: journal
 tags: [agriculture, climate]
-image: pexels-matthew-montrone-1179229.jpg
+image: trees.jpg
 ---
 
 Two extended abstracts on two important climate topics, methane and land based mitigations.

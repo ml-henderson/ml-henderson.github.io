@@ -11,7 +11,7 @@ I studied biomedical engineering in my undergrad because it felt like the most d
     width="100%"
     height="800"/>
 
-<!-- [PolicyBrief.pdf](../assets/files/Livestock_policy_proposal.pdf) -->
+Most of the photos are my own, and where they are not I credit them.
 
 I am a recipient of a US-UK Fulbright Grant to undertake this degree, and thus I will say: The views I express on this blog are entirely my own and not representative of the Fulbright Program, US Government, or any of their partners. 
 

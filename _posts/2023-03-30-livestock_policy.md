@@ -4,7 +4,7 @@ title: "Term 2 Week 8: Diet and Climate and a Policy Proposal"
 author: "Madeleine Henderson"
 categories: journal
 tags: [policy, plant-based, agriculture]
-image: sheep_pexels.jpg
+image: sheep.jpg
 ---
 I present a policy proposal to help reduce livestock consumption and production in the UK (below). The introduction where I scream about how bad meat is for the environment is woefully short due to the word count limitations. I’m going to expand on that for yall here because I haven’t done a Please Stop Eating So Much Meat episode yet. The existing veggies can skip ahead. 
 

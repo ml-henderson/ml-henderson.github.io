@@ -11,7 +11,7 @@ Commercial shipping is responsible for a large portion of global emissions, unde
 
 <embed src="https://ml-henderson.github.io/assets/files/BluePlanet_PolicyBrief_final.pdf"
     type="application/pdf" 
-    width="600"
+    width="100%"
     height="600"/>
 
 <!-- [PolicyBrief.pdf](../assets/files/BluePlanet_PolicyBrief_final.pdf) -->

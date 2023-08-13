@@ -19,7 +19,7 @@ Key definitions for the following:
 
 <embed src="https://ml-henderson.github.io/assets/files/Climate_Change_Abstracts.pdf"
     type="application/pdf" 
-    width="600"
+    width="100%"
     height="600"/>
 
 <!-- [Abstracts.pdf](../assets/files/Climate_Change_Abstracts.pdf) -->

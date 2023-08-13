@@ -11,7 +11,7 @@ Healthcare has a large environmental footprint due to unique aspects stemming fr
 
 <embed src="https://ml-henderson.github.io/assets/files/systems_thinking_healthcare_sustainability_essay_final.pdf"
     type="application/pdf" 
-    width="600"
+    width="100%"
     height="600"/>
 
 <!-- [SystemsHealthcare.pdf](../assets/files/systems_thinking_healthcare_sustainability_essay_final.pdf) -->

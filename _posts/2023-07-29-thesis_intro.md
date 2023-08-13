@@ -3,7 +3,7 @@ layout: post
 title: "What IS my thesis about??"
 author: "Madeleine Henderson"
 categories: journal
-tags: [tipping_points]
+tags: [thesis]
 image: spring.jpg
 ---
 

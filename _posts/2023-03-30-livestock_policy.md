@@ -41,7 +41,7 @@ A reduction in livestock production and consumption is critical for the sustaina
 
 <embed src="https://ml-henderson.github.io/assets/files/Livestock_policy_proposal.pdf"
     type="application/pdf" 
-    width="600"
+    width="100%"
     height="600"/>
 
 <!-- [PolicyBrief.pdf](../assets/files/Livestock_policy_proposal.pdf) -->

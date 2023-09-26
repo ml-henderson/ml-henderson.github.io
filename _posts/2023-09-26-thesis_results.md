@@ -13,7 +13,7 @@ Resilience, or the ability to quickly recover from shocks, is a critical quality
 
 ![Introduction](assets\files\TIST_Resilience_final\Slide3.PNG)
 
-See the [intro post](https://ml-henderson.github.io/thesis_intro) for more background. 
+TIST (The International Small Group and Tree Planting Program) is the community tree planting program - see the [intro post](https://ml-henderson.github.io/thesis_intro) for more background.
 
 The research questions are: 
 1. Can resilience to drought be estimated with vegetation recovery rate via remotely sensed data in Kenya?
@@ -24,6 +24,7 @@ The research questions are:
 ## Methods
 Four counties were selected because of their density of TIST groves, comparable agricultural practices, and classification as arid and semi-arid land counties (ASALs) by the Kenyan government. These counties are fairly internally heterogenous, with the agricultural and ecological conditions varying from the dry lowlands up to much wetter and cooler forested highlands near Mount Kenya. 
 ![Study Area](assets\img\studyarea.png)
+_Purple points are TIST groves - small farms engaged in tree planting for carbon credits._
 
 Droughts were classified using reports from the Kenyan National Drought Management Authority (NDMA) beginning in 2016. Besides quantitative measures of drought such as precipitations, the NDMA uses surveys of residents covering livestock forage quality, water access, crop prices, and crop success to capture the multi-dimensional aspects of drought.
 

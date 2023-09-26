@@ -13,9 +13,9 @@ Resilience, or the ability to quickly recover from shocks, is a critical quality
 
 ![Introduction](assets\files\TIST_Resilience_final\Slide3.PNG)
 
-See the [intro post](https://ml-henderson.github.io/thesis_intro). 
+See the [intro post](https://ml-henderson.github.io/thesis_intro) for more background. 
 
-The research questions were: 
+The research questions are: 
 1. Can resilience to drought be estimated with vegetation recovery rate via remotely sensed data in Kenya?
 2. Do farms engaged in agroforestry with TIST exhibit greater resilience, as measured by recovery rate, to drought than non-TIST land?
 3. Does TIST affect the recovery from subsequent drought events? 
@@ -23,10 +23,11 @@ The research questions were:
 
 ## Methods
 Four counties were selected because of their density of TIST groves, comparable agricultural practices, and classification as arid and semi-arid land counties (ASALs) by the Kenyan government. These counties are fairly internally heterogenous, with the agricultural and ecological conditions varying from the dry lowlands up to much wetter and cooler forested highlands near Mount Kenya. 
-![Study Area](assets\img\study_area.png)
+![Study Area](assets\img\studyarea.png)
 
-Droughts were classified using reports from the Kenyan National Drought Management Authority (NDMA) beginning in 2016. Besides quantitative measures of drought such as precipitations, the NDMA uses surveys of residents covering livestock forage quality, water access, crop prices, and crop success to capture the multi-dimensional aspects of drought. 
-![Drought](assets\img\drought_class.PNG)
+Droughts were classified using reports from the Kenyan National Drought Management Authority (NDMA) beginning in 2016. Besides quantitative measures of drought such as precipitations, the NDMA uses surveys of residents covering livestock forage quality, water access, crop prices, and crop success to capture the multi-dimensional aspects of drought.
+
+![Drought](assets\img\drought_class.png)
 _A subset of the drought categorizations from the start of the availability of the NDMA reports (Month 40, September 2016) until Month 80, January 2020. The highlighted months (54, 59, and 77) represent the start of recovery periods._
 
 To quantify the vegetation greeness and have a proxy measurement for the state of the agro-ecological system, NDVI derived from Landsat-8 was used (see the full document below for details, page 20). Data was filtered, cleaned, and detrended as shown below to obtain the residuals of the greeness data, which removes seasonal cycles and long term trends, leaving only the fluctuations of the 'base state' of the system (diagram below). There were still many pixels with large gaps of missing data due to cloud coverage. 
@@ -43,7 +44,7 @@ For all pixels with enough data to estimate a recovery rate, the rate was saved.
 ![RQ1](assets\files\TIST_Resilience_final\Slide10.PNG)
 Patterns can be seen in the recovery rates. Higher occurence of No Disturbance pixels in shrublands aligns with existing literature. Semi-arid areas tend to respond slower to droughts than arid or wet ecosystems because they tolerate a wider variety of water availability; thus, months of water stress may not have caused a detectable disturbance. Conversely, because of the slow reaction, drier areas also have lower recovery rates, while forested and wetter areas have the fastest recovery rates, which was also found by previous studies. These results validate the method as a useful way to measure resilience to specific disturbances. 
 
-![examples](assets\img\recovery_rate_examples.png)
+![examples](assets\img\recov_rate_examples.png)
 
 You can explore the results in Tharaka-Nithi county in the map below.
 <iframe src="assets\files\tharaka_interactive_map.html" loading="lazy" style="width: 100%; height: 400px; border: 0px none;"></iframe>

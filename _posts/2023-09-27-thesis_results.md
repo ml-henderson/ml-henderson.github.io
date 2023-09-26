@@ -13,7 +13,7 @@ Resilience, or the ability to quickly recover from shocks, is a critical quality
 
 ![Introduction](assets\files\TIST_Resilience_final\Slide3.PNG)
 
-See the [intro post](https://ml-henderson.github.io/thesis_intro). 
+See the [intro post](https://ml-henderson.github.io/thesis_intro) for more background. 
 
 The research questions are: 
 1. Can resilience to drought be estimated with vegetation recovery rate via remotely sensed data in Kenya?

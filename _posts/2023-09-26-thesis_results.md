@@ -48,7 +48,7 @@ Patterns can be seen in the recovery rates. Higher occurence of No Disturbance p
 
 You can explore the results in Tharaka-Nithi county in the map below.
 <iframe src="assets\files\tharaka_interactive_map.html" loading="lazy" style="width: 100%; height: 400px; border: 0px none;"></iframe>
-_Results from Tharaka-Nithi county. Example recovery curves shown at purple marker. (If it's not loading, try opening this page in a different browser.)_
+_Results from Tharaka-Nithi county. Example recovery curves shown at purple markers._
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
 Embu and Nyeri counties encountered issues leading to poor result quality and quantity, thus the rest of the research questions focus on results from Tharaka and Meru.

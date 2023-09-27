@@ -11,6 +11,8 @@ I present a policy proposal to help reduce livestock consumption and production 
 ## 1.Livestock use SO MUCH of our land 
 Turning land that can’t grow crops into calories for people via animals eating grass isn’t inherently a bad thing, and animals can play an important part in nutrient recycling on a farm when incorporated into a rotational system. However, the way we raise livestock is much more intensive than that – we feed them grain that is grown on crop land that either a. could be used for feeding people or b. used to be natural land like rainforest. This in itself wouldn’t be so bad if it didn’t take disproportionately way more land to make 1000 calories of meat than 1000 calories of plants – animals return only about 10% of the calories we put into them in food for us. This chart below shows how 77% of the global agricultural land is used for livestock which only produces about 18% of the global calorie supply and 37% of the global protein supply. With many competing priorities for land use (farming, preserving a small piece of the natural world, urban development, replanting trees for carbon sequestration, etc.) this doesn’t seem like the most optimal solution. 
 ![Land use of agriculture](../assets/img/Global-land-use-graphic.png)
+
+{:.imagecaption}
 _Image from [Our World In Data](https://ourworldindata.org/environmental-impacts-of-food?insight=half-of-habitable-land-is-used-for-agriculture#key-insights-on-the-environmental-impacts-of-food)_
 
 ## 2. Health concerns
@@ -22,6 +24,8 @@ Besides eating red meat being literally carcinogenic, raising livestock has huge
 That doesn’t excuse it. Food miles are one of the smallest contributions to the emissions from eating meat. What you eat is a much bigger factor. 
 
 ![Environmental impact of food by lifecycle stage](../assets/img/Environmental-impact-of-food-by-life-cycle-stage.png)
+
+{:.imagecaption}
  _Image from [Our World In Data](https://ourworldindata.org/food-choice-vs-eating-local)_
 
 ## 4. But what about the protein?!?!?!

@@ -45,7 +45,7 @@ To estimate the resilience of the system, the recovery rate after each drought w
 
 {:.imagecaption}
 *The example curve fit in this diagram shows the greenness residuals and colored bars indicating the stage of drought in the county that month.*
-{:.imagecaption}
+
 For all pixels with enough data to estimate a recovery rate, the rate was saved. If there was no significant dip in the residuals, the pixel was marked as No Disturbance. If a disturbance was found but the curve fit could not converge, the pixel was also marked as No Curve Fit. 
 
 ## Results and Discussion 

@@ -64,7 +64,7 @@ allow="fullscreen"
 title = "Map of recovery rates in Tharaka County with example popup graphs of rate fitting"></iframe>
 
 {:.imagecaption}
-*![Fullscreen link](..\assets\files\tharaka_interactive_map.html)*
+[Fullscreen link](https://ml-henderson.github.io/assets/files/tharaka_interactive_map.html)
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
 Embu and Nyeri counties encountered issues leading to poor result quality and quantity, thus the rest of the research questions focus on results from Tharaka and Meru.

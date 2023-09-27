@@ -48,7 +48,9 @@ To estimate the resilience of the system, the recovery rate after each drought w
 
 For all pixels with enough data to estimate a recovery rate, the rate was saved. If there was no significant dip in the residuals, the pixel was marked as No Disturbance. If a disturbance was found but the curve fit could not converge, the pixel was also marked as No Curve Fit. 
 
-## Results and Discussion 
+![RQ1](assets\files\TIST_Resilience_final\Slide9.PNG)
+Pictured are the recovery rates across the four counties for the main two drought recoveries in 2018 and 2019. 
+
 ![RQ1](assets\files\TIST_Resilience_final\Slide10.PNG)
 Patterns can be seen in the recovery rates spatially and also in correlations with other characteristics (correlation matrix above). Higher occurence of No Disturbance pixels in shrublands aligns with existing literature. Semi-arid areas tend to respond slower to droughts than arid or wet ecosystems because they tolerate a wider variety of water availability; thus, months of water stress may not have caused a detectable disturbance. Conversely, because of the slow reaction, drier areas also have lower recovery rates, while forested and wetter areas have the fastest recovery rates, which was also found by previous studies. These results validate the method as a useful way to measure resilience to specific disturbances. 
 
@@ -60,6 +62,9 @@ loading="lazy"
 style="width: 100%; height: 400px; border: 0px none;" 
 allow="fullscreen"
 title = "Map of recovery rates in Tharaka County with example popup graphs of rate fitting"></iframe>
+
+{:.imagecaption}
+*![Fullscreen link](assets\files\tharaka_interactive_map.html)*
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
 Embu and Nyeri counties encountered issues leading to poor result quality and quantity, thus the rest of the research questions focus on results from Tharaka and Meru.

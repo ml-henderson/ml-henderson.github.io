@@ -37,12 +37,13 @@ To quantify the vegetation greenness and have a proxy measurement for the state 
 
 To estimate the resilience of the system, the recovery rate after each drought was estimated by fitting an exponential curve to the residuals as shown below. A higher rate indicates a faster recovery and a more resilient system.
 
-<figure>
+<!-- <figure>
   <img src="{{site.url}}/assets/files/TIST_Resilience_final/Slide8.PNG" alt="Example curve fit to NDVI residuals and workflow for curve fitting."/>
   <figcaption>The example curve fit in this diagram shows the grenness residuals and colored bars indicating the stage of drought in the county that month.</figcaption>
-</figure>
-<!-- ![Curve Fit](assets\files\TIST_Resilience_final\Slide8.PNG)
-_The example curve fit in this diagram shows the grenness residuals and colored bars indicating the stage of drought in the county that month._ -->
+</figure> -->
+![Curve Fit](assets\files\TIST_Resilience_final\Slide8.PNG)
+{:.imagecaption}
+*The example curve fit in this diagram shows the greenness residuals and colored bars indicating the stage of drought in the county that month.*
 
 For all pixels with enough data to estimate a recovery rate, the rate was saved. If there was no significant dip in the residuals, the pixel was marked as No Disturbance. If a disturbance was found but the curve fit could not converge, the pixel was also marked as No Curve Fit. 
 
@@ -56,9 +57,8 @@ You can explore the results in Tharaka-Nithi county in the map below. Example re
 <iframe src="assets\files\tharaka_interactive_map.html" 
 loading="lazy" 
 style="width: 100%; height: 400px; border: 0px none;" 
-allowfullscreen
+allow="fullscreen"
 title = "Map of recovery rates in Tharaka County with example popup graphs of rate fitting"></iframe>
-
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
 Embu and Nyeri counties encountered issues leading to poor result quality and quantity, thus the rest of the research questions focus on results from Tharaka and Meru.

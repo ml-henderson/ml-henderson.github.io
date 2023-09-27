@@ -31,31 +31,32 @@ Droughts were classified using reports from the Kenyan National Drought Manageme
 ![Drought](assets\img\drought_class.png)
 _A subset of the drought categorizations from the start of the availability of the NDMA reports (Month 40, September 2016) until Month 80, January 2020. The highlighted months (54, 59, and 77) represent the start of recovery periods._
 
-To quantify the vegetation greeness and have a proxy measurement for the state of the agro-ecological system, NDVI derived from Landsat-8 was used (see the full document below for details, page 20). Data was filtered, cleaned, and detrended as shown below to obtain the residuals of the greeness data, which removes seasonal cycles and long term trends, leaving only the fluctuations of the 'base state' of the system (diagram below). There were still many pixels with large gaps of missing data due to cloud coverage. 
+To quantify the vegetation greenness and have a proxy measurement for the state of the agro-ecological system, NDVI derived from Landsat-8 was used (see the full document below for details, page 20). Data was filtered, cleaned, and detrended as shown below to obtain the residuals of the greenness data, which removes seasonal cycles and long term trends, leaving only the fluctuations of the 'base state' of the system (diagram below). There were still many pixels with large gaps of missing data due to cloud coverage. 
 
 ![Preprocessing](assets\img\preprocessingmethods.png)
 
-To estimate the resilience of the system, the recovery rate after each drought was estimated by fitting an exponential curve to the residuals as shown below.
+To estimate the resilience of the system, the recovery rate after each drought was estimated by fitting an exponential curve to the residuals as shown below. A higher rate indicates a faster recovery and a more resilient system.
 
 ![Curve Fit](assets\files\TIST_Resilience_final\Slide8.PNG)
+_The example curve fit in this diagram shows the grenness residuals and colored bars indicating the stage of drought in the county that month._
 
 For all pixels with enough data to estimate a recovery rate, the rate was saved. If there was no significant dip in the residuals, the pixel was marked as No Disturbance. If a disturbance was found but the curve fit could not converge, the pixel was also marked as No Curve Fit. 
 
 ## Results and Discussion 
 ![RQ1](assets\files\TIST_Resilience_final\Slide10.PNG)
-Patterns can be seen in the recovery rates. Higher occurence of No Disturbance pixels in shrublands aligns with existing literature. Semi-arid areas tend to respond slower to droughts than arid or wet ecosystems because they tolerate a wider variety of water availability; thus, months of water stress may not have caused a detectable disturbance. Conversely, because of the slow reaction, drier areas also have lower recovery rates, while forested and wetter areas have the fastest recovery rates, which was also found by previous studies. These results validate the method as a useful way to measure resilience to specific disturbances. 
+Patterns can be seen in the recovery rates spatially and also in correlations with other characteristics (correlation matrix above). Higher occurence of No Disturbance pixels in shrublands aligns with existing literature. Semi-arid areas tend to respond slower to droughts than arid or wet ecosystems because they tolerate a wider variety of water availability; thus, months of water stress may not have caused a detectable disturbance. Conversely, because of the slow reaction, drier areas also have lower recovery rates, while forested and wetter areas have the fastest recovery rates, which was also found by previous studies. These results validate the method as a useful way to measure resilience to specific disturbances. 
 
 ![examples](assets\img\recov_rate_examples.png)
 
-You can explore the results in Tharaka-Nithi county in the map below.
-<iframe src="assets\files\tharaka_interactive_map.html" loading="lazy" style="width: 100%; height: 400px; border: 0px none;"></iframe>
-_Results from Tharaka-Nithi county. Example recovery curves shown at purple markers._
+You can explore the results in Tharaka-Nithi county in the map below. Example recovery curves shown at purple markers.
+<iframe src="assets\files\tharaka_interactive_map.html" loading="lazy" style="width: 100%; height: 400px; border: 0px none;" allow="fullscreen"></iframe>
+
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
 Embu and Nyeri counties encountered issues leading to poor result quality and quantity, thus the rest of the research questions focus on results from Tharaka and Meru.
 
 ![RQ2](assets\files\TIST_Resilience_final\Slide13.PNG)
-Because TIST farms tend to occur in more historically forested and wetter areas, comparing TIST pixel resilience against all other pixels would not isolate the effects of TIST itself. Thus, landcover classification (Treecover, Shrubland, Grassland, or Cropland) was used to stratify pixels. Comparing TIST groves and immediate neighboring pixels to non-TIST pixels of the same landcover showed that TIST and Neighbors ususally had faster recovery rates. 
+Because TIST farms tend to occur in more historically forested and wetter areas, comparing TIST pixel resilience against all other pixels would not isolate the effects of TIST itself. Thus, landcover classification (Treecover, Shrubland, Grassland, or Cropland) was used to stratify pixels. Comparing TIST groves and immediate neighboring pixels to non-TIST pixels of the same landcover showed that TIST and Neighbors ususally had faster recovery rates (table shows median recovery rates for each recovery, each county, each landcover type, split by TIST pixels, immediate neighbor pixels, and Other pixels. Highlighted boxes show the group within each subset with fastest recovery rates.)
 
 Correlation is not indicative of causation, but it is plausible that TIST membership contributes to increased resilience because of the tree planting and conservation agriculture practices that TIST promotes. In semi-arid areas especially, groves of trees increase the amount of water stored in the soil by increasing the depth that water can infiltrate and obstructing runoff. Trees also create a cooler and wetter microclimate in their immediate area by providing shade and increasing the humidity through evapotranspiration. Conservation agriculture also improves the quality of the soil by reducing tillage, leaving crop residues on the fields, and rotating crops to replenish nutrients; all of these practices contribute to increased water use efficiency. In total, while higher resilience of TIST farms cannot be definitively or solely attributed to TIST membership, the practices of tree planting, agroforestry, and conservation agriculture likely contribute.  
 

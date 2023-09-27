@@ -24,11 +24,15 @@ The research questions are:
 ## Methods
 Four counties were selected because of their density of TIST groves, comparable agricultural practices, and classification as arid and semi-arid land counties (ASALs) by the Kenyan government. These counties are fairly internally heterogenous, with the agricultural and ecological conditions varying from the dry lowlands up to much wetter and cooler forested highlands near Mount Kenya. 
 ![Study Area](assets\img\studyarea.png)
+
+{:.imagecaption}
 _Purple points are TIST groves - small farms engaged in tree planting for carbon credits._
 
 Droughts were classified using reports from the Kenyan National Drought Management Authority (NDMA) beginning in 2016. Besides quantitative measures of drought such as precipitations, the NDMA uses surveys of residents covering livestock forage quality, water access, crop prices, and crop success to capture the multi-dimensional aspects of drought.
 
 ![Drought](assets\img\drought_class.png)
+
+{:.imagecaption}
 _A subset of the drought categorizations from the start of the availability of the NDMA reports (Month 40, September 2016) until Month 80, January 2020. The highlighted months (54, 59, and 77) represent the start of recovery periods._
 
 To quantify the vegetation greenness and have a proxy measurement for the state of the agro-ecological system, NDVI derived from Landsat-8 was used (see the full document below for details, page 20). Data was filtered, cleaned, and detrended as shown below to obtain the residuals of the greenness data, which removes seasonal cycles and long term trends, leaving only the fluctuations of the 'base state' of the system (diagram below). There were still many pixels with large gaps of missing data due to cloud coverage. 
@@ -37,10 +41,6 @@ To quantify the vegetation greenness and have a proxy measurement for the state 
 
 To estimate the resilience of the system, the recovery rate after each drought was estimated by fitting an exponential curve to the residuals as shown below. A higher rate indicates a faster recovery and a more resilient system.
 
-<!-- <figure>
-  <img src="{{site.url}}/assets/files/TIST_Resilience_final/Slide8.PNG" alt="Example curve fit to NDVI residuals and workflow for curve fitting."/>
-  <figcaption>The example curve fit in this diagram shows the grenness residuals and colored bars indicating the stage of drought in the county that month.</figcaption>
-</figure> -->
 ![Curve Fit](assets\files\TIST_Resilience_final\Slide8.PNG)
 
 {:.imagecaption}

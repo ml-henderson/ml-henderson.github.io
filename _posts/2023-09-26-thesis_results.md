@@ -49,7 +49,11 @@ Patterns can be seen in the recovery rates spatially and also in correlations wi
 ![examples](assets\img\recov_rate_examples.png)
 
 You can explore the results in Tharaka-Nithi county in the map below. Example recovery curves shown at purple markers.
-<iframe src="assets\files\tharaka_interactive_map.html" loading="lazy" style="width: 100%; height: 400px; border: 0px none;" allow="fullscreen"></iframe>
+<iframe src="assets\files\tharaka_interactive_map.html" 
+loading="lazy" 
+style="width: 100%; height: 400px; border: 0px none;" 
+allowfullscreen
+title = "Map of recovery rates in Tharaka County with example popup graphs of rate fitting"></iframe>
 
 
 ![Embu-Nyeri](assets\files\TIST_Resilience_final\Slide12.PNG)
